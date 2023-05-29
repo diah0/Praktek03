@@ -9,6 +9,8 @@ package praktek03;
  * @author Lenovo
  */
 public class SepedaAksi {
+    public static void main (String[]args){
     
     
+}
 }

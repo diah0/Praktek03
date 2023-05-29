@@ -9,9 +9,9 @@ package praktek03;
  * @author Lenovo
  */
 public class Sepeda {
-    String merk;
-    String warna;
-    double harga;
+   private String merk;
+   private String warna;
+   private double harga;
     
     void cetakinfo(){
         System.out.println("Merk \t: "+merk+"\n"+

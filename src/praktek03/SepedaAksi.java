@@ -14,7 +14,7 @@ public class SepedaAksi {
    s.setMerk("Butterfly");
    s.setWarna("Merah");
    s.setHarga(1000);
-   s.setJenisMotor();
+ 
     
    
     s.cetakinfo();
@@ -33,9 +33,8 @@ public class SepedaAksi {
     sm.setJenisMotor("Listrik");
     sm.cetakinfo();
     
-    System.out.println("Jenis \t: "+ sm.getJenisMotor());
+    System.out.println("Jenis : "+ sm.getJenisMotor());
     sm.throttle();
-    
     
 }
 }
